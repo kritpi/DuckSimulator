@@ -14,4 +14,4 @@ public class PoliteDuck implements Quackable {
   public static int getPoliteCount() {
     return politeCount;
   }
-}
+}//6510405300 Kritpiruch Chaiwong

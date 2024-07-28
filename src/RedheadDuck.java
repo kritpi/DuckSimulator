@@ -3,3 +3,4 @@ public class RedheadDuck implements Quackable {
     System.out.print("Quack");
   }
 }
+//6510405300 Kritpiruch Chaiwong

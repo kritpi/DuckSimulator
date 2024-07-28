@@ -8,4 +8,4 @@ public class GooseAdapter implements Quackable {
   public void quack() {
     goose.honk();
   }
-}
+}//6510405300 Kritpiruch Chaiwong

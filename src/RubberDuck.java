@@ -3,3 +3,4 @@ public class RubberDuck implements Quackable {
       System.out.print("Squeak");
     }
 }
+//6510405300 Kritpiruch Chaiwong

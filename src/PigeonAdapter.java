@@ -9,4 +9,4 @@ public class PigeonAdapter implements Quackable {
     pigeon.coo();
     pigeon.coo();
   }
-} 
+} //6510405300 Kritpiruch Chaiwong

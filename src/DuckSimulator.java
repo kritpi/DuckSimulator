@@ -41,3 +41,4 @@ public class DuckSimulator {
     duck.quack();
   }
 }
+//6510405300 Kritpiruch Chaiwong
